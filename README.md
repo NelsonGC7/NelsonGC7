@@ -6,7 +6,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KilluA&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KilluA&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
 
 
