@@ -1,4 +1,4 @@
-<h1 align = "center">Sobre Mi:</h1>
+<h1 align = "center">👋Sobre Mi:</h1>
 👾¡Hola! Soy Nelson , un apasionado desarrollador front-end en constante búsqueda de crecimiento y aprendizaje. Aunque actualmente me considero un desarrollador junior en este fascinante campo, mi determinación y entusiasmo me impulsan a convertirme en un profesional destacado.👾<br>Cada día veo los desafíos como oportunidades de aprendizaje, y mi objetivo es no solo mejorar mis habilidades técnicas, sino también desarrollar una comprensión profunda de la experiencia del usuario. Creo firmemente en la importancia de la colaboración y el intercambio de conocimientos en la comunidad de desarrollo.<br><br>Mi viaje apenas comienza, pero estoy emocionado por el camino que se avecina. Siempre abierto a nuevas ideas y proyectos, estoy ansioso por contribuir y crecer junto con la comunidad de desarrollo front-end🚀
 
 
@@ -12,6 +12,11 @@
 # 📊 GitHub Stats:
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+
+| Company Affiliation | Lines of Code Changes |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
 
 
 ## 🏆 GitHub Trophies
