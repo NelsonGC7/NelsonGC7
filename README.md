@@ -13,8 +13,11 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
-![NelsonGC7's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGC7&theme=dark&show_icons=true)
-
+<figure align="center">
+  
+  ![NelsonGC7's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGC7&theme=neon&show_icons=true)
+  
+</figure>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonGC7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
