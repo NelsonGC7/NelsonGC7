@@ -9,18 +9,14 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+<h3 align="center">📊 GitHub Stats:</h3>
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=NelsonGC7&show_icons=true)
 
 
-
-
-
-## 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Trophies</h3>
 ![](https://github-profile-trophy.vercel.app/?username=NelsonGC7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=NelsonGC7&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
