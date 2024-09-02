@@ -15,11 +15,11 @@
 
 <figure align="center">
   
-  ![NelsonGC7's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGC7&theme=neon&show_icons=true)
+  ![NelsonGC7's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGC7&theme=neon&show_icons=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonGC7&layout=compact)]
   
 </figure>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonGC7&layout=compact)]
+
 
   
 </section>
