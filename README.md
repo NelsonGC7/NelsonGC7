@@ -10,11 +10,14 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats:</h3>
-![NelsonGC7's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGC7&theme=neon&show_icons=true)
+
+![NelsonGC7's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGC7&theme=dark&show_icons=true)
 
 
 <h3 align="center">🏆 GitHub Trophies</h3>
+
 ![NelsonGC7's 🏆 ](https://github-profile-trophy.vercel.app/?username=NelsonGC7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 [![](https://visitcount.itsvg.in/api?id=NelsonGC7&icon=4&color=0)](https://visitcount.itsvg.in)
 
