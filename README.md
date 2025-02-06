@@ -5,7 +5,7 @@
 <h3 align="center">💻 Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,react,vite,express,sqlite,html,css,git,bash,linux,debian,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,react,vite,express,sqlite,html,css,git,bash,linux,debian,vscode,solana,astro,ts,yarn,tailwindcss" />
   </a>
 </p>
 
