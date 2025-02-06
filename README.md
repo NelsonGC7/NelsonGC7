@@ -13,7 +13,7 @@
 
   <h3>💻 Tech Stack:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,react,vite,express,sqlite,html,css,git,bash,linux,debian,vscode,.,.,.,.,.,.,.,astro,ts,yarn,tailwindcss,rust" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,react,vite,express,sqlite,html,css,git,bash,linux,debian,vscode,.,.,.,.,.,.,astro,ts,yarn,tailwindcss,rust" />
   </a>
 
   <h3>📊 GitHub Stats:</h3>
